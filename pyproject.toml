@@ -1,7 +1,11 @@
 [project]
 name = "2026-sogoenshu2"
 version = "0.1.0"
-description = "Add your description here"
+description = "2026年度 総合演習2 社会系(後半)・マクロ系シミュレーション"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "ipykernel",
+    "matplotlib",
+    "numpy",
+]
